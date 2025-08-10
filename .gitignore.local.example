@@ -1,0 +1,23 @@
+# 本地 Git 忽略文件示例
+# 复制此文件为 .gitignore.local 并添加您的本地忽略规则
+# .gitignore.local 文件已在主 .gitignore 中被忽略
+
+# 个人配置文件
+.env.personal
+my-config.json
+
+# 本地测试文件
+test-*.js
+debug-*.log
+
+# 个人笔记和文档
+notes/
+docs/personal/
+
+# 本地开发工具配置
+.vscode/settings.json.local
+.idea/workspace.xml.local
+
+# 临时文件
+*.tmp.local
+*.backup.local

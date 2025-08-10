@@ -1,0 +1,40 @@
+{
+  "name": "FloChatAI",
+  "version": "1.0.0",
+  "description": "FloChatAI - 智能聊天助手",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "chatai",
+    "react",
+    "nextjs",
+    "cloudflare-workers",
+    "ai-chat"
+  ],
+  "author": "FloChatAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^10.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "react-markdown": "^9.0.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.1"
+  }
+}
