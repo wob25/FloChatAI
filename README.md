@@ -683,7 +683,7 @@ function App() {
 
 集成完成后，您可以：
 1. 📊 查看 [配置选项](#配置选项) 了解更多自定义选项
-2. 🚀 阅读 [部署指南](DEPLOYMENT_GUIDE.md) 部署后端服务
+2. 🚀 阅读 [部署指南](MD_File/DEPLOYMENT_GUIDE.md) 部署后端服务
 3. 🔧 参考 [API 文档](chatai-workers/README.md) 了解后端接口
 4. 💡 查看 [示例项目](example.jsx) 获取更多灵感
 

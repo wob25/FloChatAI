@@ -392,4 +392,4 @@ const isMobile = window.innerWidth < 768
 
 ---
 
-📝 **需要更多帮助？** 请查看 [API文档](./chatai-workers/README.md) 或提交 [Issue](https://github.com/your-username/FloChatAI/issues)。
+📝 **需要更多帮助？** 请查看 [API文档](../chatai-workers/README.md) 或提交 [Issue](https://github.com/your-username/FloChatAI/issues)。

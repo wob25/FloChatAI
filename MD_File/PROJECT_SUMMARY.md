@@ -30,16 +30,17 @@
 ```
 FloChatAI/
 ├── 📄 README.md                    # 项目主文档 (包含界面展示和Star History)
-├── 📄 USAGE.md                     # 详细使用说明
-├── 📄 DEPLOYMENT_GUIDE.md          # 完整部署指南
-├── 📄 SECURITY_CHECKLIST.md        # 安全检查清单
-├── 📄 PROJECT_SUMMARY.md           # 项目总结
 ├── 📦 package.json                 # 项目配置
 ├── 📜 LICENSE                      # MIT许可证
 ├── 🚫 .gitignore                   # Git忽略文件 (完整安全配置)
 ├── ⚙️ .env.example                 # 环境变量模板 (详细配置说明)
 ├── 💡 example.jsx                  # 使用示例
-├── 📖 CHATAI_QUICKSTART.md         # 快速开始指南
+├── 📁 MD_File/                     # 文档文件夹
+│   ├── 📄 USAGE.md                 # 详细使用说明
+│   ├── 📄 DEPLOYMENT_GUIDE.md      # 完整部署指南
+│   ├── 📄 DEPLOYMENT.md            # 部署文档
+│   ├── 📄 PROJECT_SUMMARY.md       # 项目总结
+│   └── 📖 CHATAI_QUICKSTART.md     # 快速开始指南
 │
 ├── 📁 components/                  # React组件 (头像路径已优化)
 │   ├── 📄 README.md               # 组件文档
